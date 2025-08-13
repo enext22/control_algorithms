@@ -1,3 +1,6 @@
+# Author: Emily Edwards
+# LastUpdated: Aug 13th, 2025
+
 import matplotlib.pyplot as plt
 import math
 
